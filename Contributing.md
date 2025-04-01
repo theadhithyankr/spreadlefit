@@ -132,8 +132,8 @@ Simply put, the way to create a Pull request is first;
 
 ## Contact.
 
-For further inquiries, you can contact the developer by opening an [issue](https://github.com/adhithyankr/SpreadleFit/issues/new) on the repository.
+For further inquiries, you can contact the developer by opening an [issue](https://github.com/adhithyankr/spreadlefit/issues/new) on the repository.
 
-You can also check out the developer's profile [here](https://github.com/adhithyankr).
+You can also check out the developer's profile [here](https://github.com/theadhithyankr).
 
 Thank you for your interest in contributing to SpreadleFit. I appreciate all the help with finding and fixing bugs, making performance improvements, and other tasks. Every contribution is helpful and I thank you for your effort.
