@@ -75,7 +75,7 @@ SpreadleFit is developed in good faith to help end users track their fitness pro
 
 ## Contact Us
 
-SpreadleFit would certainly improve with contributions from the open source community. Feel free to make contributions and suggestions to this project either by opening an issue or implementing opening pull requests of those suggestions and improvements. For further inquiry regarding this privacy policy or any other issue relating to the development or within the circumference of SpreadleFit software, please contact the developer either by opening an [issue](https://github.com/brodeurlv/SpreadleFit/issues/new) on the app's official repository [here](https://github.com/brodeurlv/SpreadleFit) on Github. You can also check out the [developer's profile](https://github.com/brodeurlv) for more information.
+SpreadleFit would certainly improve with contributions from the open source community. Feel free to make contributions and suggestions to this project either by opening an issue or implementing opening pull requests of those suggestions and improvements. For further inquiry regarding this privacy policy or any other issue relating to the development or within the circumference of SpreadleFit software, please contact the developer either by opening an [issue](https://github.com/theadhithyankr/SpreadleFit/issues/new) on the app's official repository [here](https://github.com/theadhithyankr/spreadlefit) on Github. You can also check out the [developer's profile](https://github.com/theadhithyankr) for more information.
 
 
 
